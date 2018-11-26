@@ -1,2 +1,2 @@
 # ml-takeone
-First machine learning experience
+Machine learning experience
